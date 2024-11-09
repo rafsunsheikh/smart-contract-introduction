@@ -97,8 +97,3 @@ Feel free to fork this repository, make feature requests, or submit issues. Cont
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-This `README.md` should give a clear overview of your project, setup instructions, deployment steps, and basic information about testing and contributing. Let me know if you'd like further customization!
-```
